@@ -1,4 +1,5 @@
 Roteiro de como estriturar um projeto de Ciencia de Dados do Zero;
 Primeiras conversas, insights esperados, hipóteses de perguntas;
 Requisitos de negócios e da aplicação;
-limitação de implementabilidade e métricas
+limitação de implementabilidade e métricas;
+Tasks de implementação, restrições e alinhamento com o negócio
